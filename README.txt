@@ -1,5 +1,4 @@
 These files are Bit-based Division Properties of S7 and S9 on KASUMI.
-
 We express Bit-based Division Properties of S-box as follows.
 (Input Bit-based Division Property) -> (Output Bit-based Division Properties)
 
